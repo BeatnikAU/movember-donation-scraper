@@ -1,0 +1,32 @@
+{
+  "name": "movember-scraper",
+  "version": "0.1.0",
+  "description": "Simple Movember total donation scraper with text file output",
+  "main": "app.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "fs": "^0.0.1-security",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeatnikAU/movember-donation-scraper.git"
+  },
+  "keywords": [
+    "scraper",
+    "text",
+    "file",
+    "OBS"
+  ],
+  "author": "BeatnikAU",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BeatnikAU/movember-donation-scraper/issues"
+  },
+  "homepage": "https://github.com/BeatnikAU/movember-donation-scraper#readme"
+}
